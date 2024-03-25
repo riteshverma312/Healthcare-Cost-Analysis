@@ -121,31 +121,18 @@ This project stands as a testament to the application of data science in improvi
 To run this script, you need to have R installed along with the following packages:
 
 tidyverse
-
 caret
-
 ggplot2
-
 plotly
-
 e1071
-
 keras
-
 mlbench
-
 dplyr
-
 magrittr
-
 neuralnet
-
 part
-
 rpart.plot
-
 VIP
-
 parsnip
 
 **Usage**
