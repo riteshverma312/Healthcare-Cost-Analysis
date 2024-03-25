@@ -1,23 +1,24 @@
 # Healthcare-Management-Cost-Analysis
-Description
+**Description**
+
 This project utilizes a dataset hosted on S3 to analyze the healthcare costs associated with various individual factors such as age, BMI, smoking status, and more. The script involves data wrangling, exploratory data analysis (EDA), visualization, and predictive modeling using various machine learning algorithms. The goal is to build models that can accurately predict healthcare costs and identify the significant factors influencing them.
 
-Table of Contents
-Project Title
-Description
-Objective
-Data Processing
-Exploratory Data Analysis (EDA)
-Machine Learning Algorithms
-Visualization
-Application
-Libraries Used
-UI Components
-Server Logic
-Conclusion
-Installation
-Usage
-Objective
+**Table of Contents**
+ 1. Project Title
+ 2. Description
+ 3. Objective
+ 4. Data Processing
+ 5. Exploratory Data Analysis (EDA)
+ 6. Machine Learning Algorithms
+ 7. Visualization
+ 8. Application
+   Libraries Used
+   UI Components
+   Server Logic
+ 9. Conclusion
+10. Installation
+11. Usage
+12. Objective
 The main objective of this project is to delve deep into the healthcare data to extract meaningful insights and develop predictive models that can accurately forecast individual healthcare costs based on a range of factors.
 
 Data Processing
